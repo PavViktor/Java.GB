@@ -1,4 +1,4 @@
-package Java_homework.Java_HW_1;
+package Java_homework.Java_hw_1;
 // напечатать строку source repeat раз
 
 public class HW_1_3 {

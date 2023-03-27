@@ -1,4 +1,4 @@
-package Java_homework.Java_HW_1;
+package Java_homework.Java_hw_1;
 // проверить, что х положительное
 
 public class HW_1_2 {

@@ -1,4 +1,4 @@
-package Java_homework.Java_HW_1;
+package Java_homework.Java_hw_1;
 // должен вернуть массив длины len, каждое значение которого равно initialValue
 
 import java.util.Arrays;
